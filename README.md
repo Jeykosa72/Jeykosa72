@@ -68,8 +68,8 @@ Software Engineer with 3+ years of experience designing and developing internal 
 ### Contact
 
 - **GitHub:** [github.com/Jeykosa72](https://github.com/Jeykosa72)
-- **LinkedIn:** [linkedin.com/in/yohanes-puja-kristanto](https://www.linkedin.com/in/yohanes-puja-kristanto) *(sesuaikan slug URL LinkedIn kamu)*
-- **Email:** yohanespujakristanto@gmail.com *(sesuaikan dengan email profesional kamu)*
+- **LinkedIn:** [linkedin.com/in/yohanes-kristanto](https://www.linkedin.com/in/yohanes-kristanto)
+- **Email:** kristank72@gmail.com
 
 <div align="center">
 
