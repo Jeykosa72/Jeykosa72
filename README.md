@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi, I'm Yohanes Puja Kristanto
 
-<!--
-**Jeykosa72/Jeykosa72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack & Backend Engineer focused on maintainable web systems, relational databases, and practical architecture. Currently building focused dummy projects and refining production patterns across PHP, Laravel, Vue/Inertia, Node.js, and Go.
 
-Here are some ideas to get you started:
+#### Core Stack
+- **Backend & Web:** PHP, Laravel, Slim Framework, Node.js, Go
+- **Frontend:** Vue 3, Inertia.js, Tailwind CSS, Alpine.js, Livewire
+- **Database & Infra:** PostgreSQL, MySQL/MariaDB, SQL Server, Docker, Docker Compose
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Selected Repositories
+- **[ukt-webhook-sevima](https://github.com/Jeykosa72/ukt-webhook-sevima)** — Multi-tenant payment webhook integration with HMAC-SHA256 signature verification and structured service layer.
+- **[stocksync-engine](https://github.com/Jeykosa72/stocksync-engine)** — Node.js backend service exploring stream processing, HTTP API design, and PostgreSQL persistence.
+- **[db_pos_sederhana](https://github.com/Jeykosa72/db_pos_sederhana)** — Relational POS database schema, seed scripts, and structured documentation.
+
+#### Working Principles
+- Prefer explicit boundaries, clean service/repository separation, and reproducible local setups over over-engineered abstractions.
+- Document trade-offs, setup steps, and architectural decisions directly inside each repository.
