@@ -48,7 +48,7 @@ Software Engineer with 3+ years of experience designing and developing internal 
 
 | Project | Stack | Technical Highlights |
 | :--- | :--- | :--- |
-| **[ukt-webhook-sevima](https://github.com/Jeykosa72/ukt-webhook-sevima)** | Go (Go Language), Vue 3, Inertia.js, PostgreSQL, Docker | Single-database multi-tenant payment webhook integration featuring HMAC-SHA256 payload verification, idempotency handling, and structured service layers. |
+| **[ukt-webhook-sevima](https://github.com/Jeykosa72/ukt-webhook-sevima)** | Laravel 13, Vue 3, Inertia.js, PostgreSQL, Docker | Single-database multi-tenant payment webhook integration featuring HMAC-SHA256 payload verification, idempotency handling, and structured service layers. |
 | **[stocksync-engine](https://github.com/Jeykosa72/stocksync-engine)** | Node.js, PostgreSQL, Docker | Backend inventory synchronization service exploring Node.js streams, clean HTTP API boundaries, and incremental architecture documentation. |
 | **[GoSecure-Daemon](https://github.com/Jeykosa72/GoSecure-Daemon)** | Go, systemd, Makefile | Lightweight background daemon in Go with automated build, unit testing, and Linux systemd deployment workflow. |
 | **[db_pos_sederhana](https://github.com/Jeykosa72/db_pos_sederhana)** | SQL (PostgreSQL / MySQL) | Normalized relational schema design for Point of Sale workflows, complete with deterministic seed scripts and setup guides. |
