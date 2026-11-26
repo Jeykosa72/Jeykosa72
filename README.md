@@ -1,7 +1,5 @@
 <div align="center">
 
-# Yohanes Puja Kristanto
-
 **Full-Stack & Backend Software Engineer**  
 Building maintainable web applications, relational database schemas, and modular backend services.
 
